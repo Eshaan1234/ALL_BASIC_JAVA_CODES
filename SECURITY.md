@@ -8,7 +8,7 @@ Newest Java Version Supported
 | ------- | ------------------ |
 | Java SE 24  | :white_check_mark: |
 | Java SE 21  | :white_check_mark: |
-
+| Other old Versions  | :x:        |
 ## Reporting a Vulnerability
 
 If there is any vulnerability mail me at codingtrial18@gmail.com
